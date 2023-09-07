@@ -1,0 +1,3 @@
+ls
+dnf list install
+
